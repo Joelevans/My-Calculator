@@ -1,2 +1,2 @@
 # My-Calculator
-A simple calculator made using java
+Basic calculator made using java
